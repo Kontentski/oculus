@@ -259,7 +259,7 @@ background-clip: text;
   grid-column: 2/3;
   width: 280px;
   height: 150px;
-  background-image: url(/images/content1_bg.jpg);
+  background-image: url(images/content1_bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -436,7 +436,7 @@ animation: line-text 10s linear 1s infinite;
 }
 
 .promo__inner{
-    background-image: url(/images/promo.jpg);
+    background-image: url(images/promo.jpg);
   min-height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
